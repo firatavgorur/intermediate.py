@@ -31,7 +31,6 @@ def paraCek():
             print("\nParanız Hazırlanıyor..")
             bakiyeSorgula(FıratHesap)
 
-
 def paraYatir():
     tutar = input("\nYatırmak İstediğiniz Tutarı Giriniz: ")
     if int(tutar) > 0:
