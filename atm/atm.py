@@ -51,7 +51,6 @@ def bakiyeSorgulama():
     print(f"Merhaba {FıratHesap['ad']}, {FıratHesap['hesapNo']} nolu ana hesabınızda toplam {FıratHesap['bakiye']} TL bulunmaktadır.")
 
 
-
 print("\n************ ATM *************\n")
 
 islemler = {
